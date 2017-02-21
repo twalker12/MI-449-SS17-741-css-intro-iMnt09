@@ -45,3 +45,12 @@ img {
   height: 53px;
   padding: 5px;
   }
+
+  a {
+  color: purple;
+}
+
+a:hover {
+  color: orange;
+  text-decoration: underline;
+}
